@@ -1,7 +1,7 @@
 Bonjours à tous,
 Alors, soyez indulgent je commence un premier projet sur GitHub,
 avec le peu de connaissance que j'ai acquise, c'est à dire, pas grand chose.
-Je m'enitie pour le momment à HTML5 et au CSS3.
+Je m'enitie pour le moment à HTML5 et au CSS3.
 Je vais donc essayé de me construire un porte folio.
 Bonne journée à tous.
 Laurent
